@@ -35,10 +35,7 @@ nav {
 }
 body {
   display: flex;
-  justify-content: center;
-  width: 75%;
   color: #FBFBFB;
   font-family: 'Poppins', sans-serif;
-  font-size: 12px;
 }
 

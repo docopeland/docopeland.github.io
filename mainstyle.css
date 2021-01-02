@@ -1,13 +1,13 @@
-body {
-      background-color: #C8C8C8;
-      font-family: 'Poppins', sans-serif;
-}
+
 {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
-
+body {
+      background-color: #C8C8C8;
+      font-family: 'Poppins', sans-serif;
+}
 nav {
   display: flex;
   justify-content: space-around;

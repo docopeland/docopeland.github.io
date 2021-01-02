@@ -77,6 +77,9 @@ nav {
         display: block;
         cursor: pointer;
     }
+    .content{
+        padding-top:10%;
+    }
 }
 .nav-active {
         transform: translateX(0%);
@@ -105,4 +108,4 @@ nav {
   padding-top: 10%;
   font-family: 'Poppins',sans-serif;
   font-size:12px;
-}
+}   

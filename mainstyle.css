@@ -4,10 +4,6 @@
   padding: 0px;
   box-sizing: border-box;
 }
-body {
-      background-color: #C8C8C8;
-      font-family: 'Poppins', sans-serif;
-}
 nav {
   display: flex;
   justify-content: space-around;
@@ -38,4 +34,9 @@ nav {
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
+}
+
+body {
+      background-color: #C8C8C8;
+      font-family: 'Poppins', sans-serif;
 }

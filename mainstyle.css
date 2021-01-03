@@ -44,7 +44,7 @@ nav {
 .burger div {
     width: 25px;
     height: 3px;
-    background-color: #FBFBFB;
+    background-color: #F0CBCA;
     margin: 5px;
     transition: all 0.3s ease;
 }
@@ -62,7 +62,7 @@ nav {
         right: 0px;
         height: 95%;
         top: 8vh;
-        background-color: #F0CBCA;
+        background-color: #FBFBFB;
         display: flex;
         flex-direction: column;
         align-items: center;

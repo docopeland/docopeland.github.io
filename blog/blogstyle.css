@@ -27,23 +27,43 @@
   overflow:hidden;
   position:absolute;
   transform:translate(-50%,-50%);
-  align-items:flex-start;
 }
 .title{
-  background-color:#FBFBFB;
+  background-color:#F0CBCA;
+  color: #777777;
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 10px;
+  text-align:center;
 }
 .date {
-  align-self:flex-start;
+  padding:5px;
 }
 .text{
-  align-self:center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:5px;
 }
 .btn{
-  align-self:flex-end;
+  padding:5px;
+  border-radius:20px;
+  background-color:#F0CBCA;
+  color: #777777;
+  position:absolute;
+  right: 10px; 
+  bottom: 10px;
+  letter-spacing: 1px;
+  cursor:pointer;
+  font-weight:bold;
+  font-family: Mulish;
 }
+.btn:hover{
+  background-color:#FBFBFB;
+  color: #F0CBCA;
+  transform:scale(1.05);
+}
+
 
 /* below is the style for the header*/
 /** code based on youtube video

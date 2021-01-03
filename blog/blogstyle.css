@@ -67,6 +67,16 @@
   transform:scale(1.05);
 }
 
+@media screen and (max-width: 768px) {
+  .post{
+    flex-direction:column;
+    width:90%;
+  }
+  .text{
+    margin-bottom:45px;
+  }
+}
+
 
 /* below is the style for the header*/
 /** code based on youtube video

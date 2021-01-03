@@ -16,6 +16,7 @@ nav {
     min-height: 12vh;
     background-color: #FBFBFB;
     font-family: "Poppins", sans-serif;
+    font-weight:400;
     z-index:9999;
 }
 .logo {
@@ -104,29 +105,26 @@ nav {
 }
 .welcome{
   top:2vh;
-  font-family: 'Poppins',sans-serif;
-  font-size:12px;
   position: relative;
   width:75%;
   left:12.5%;
 }
 .textie {
   top:3vh;
-  font-family: 'Poppins',sans-serif;
-  font-size:12px;
   position: relative;
   width:75%;
   left:12.5%;
 }  
 .blogs {
   top:2vh;
-  font-family: 'Poppins',sans-serif;
-  font-size:12px;
   position: relative;
   width:75%;
   left:12.5%;
 }
 .content {
+  font-family: 'Poppins',sans-serif;
+  font-size: 15px;
+  font-weight:100;
   background-color: #F0CBCA;
   position:absolute; 
   top:12vh; 

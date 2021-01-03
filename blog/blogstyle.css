@@ -1,3 +1,14 @@
+/** css for content below*/
+.content {
+  font-family: 'Mulish',sans-serif;
+  font-size: 15px;
+  background-color: #F1DCE2;
+  position:absolute; 
+  top:12vh; 
+  bottom:0;
+  left:0;
+  right:0;
+}
 
 /* below is the style for the header*/
 /** code based on youtube video
@@ -104,16 +115,4 @@ nav {
 }
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
-}
-
-/** css for conent below*/
-.content {
-  font-family: 'Mulish',sans-serif;
-  font-size: 15px;
-  background-color: #F1DCE2;
-  position:absolute; 
-  top:12vh; 
-  bottom:0;
-  left:0;
-  right:0;
 }

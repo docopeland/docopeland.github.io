@@ -20,7 +20,7 @@ nav {
     z-index:9999;
 }
 .logo {
-    color: /*#F0CBCA;*/ #F1DCE2;
+    color: #F0CBCA;*;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: 20px;
@@ -34,7 +34,7 @@ nav {
     list-style: none;
 }
 .nav-links a {
-    color: #F1DCE2;
+    color: #F0CBCA;
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
@@ -46,7 +46,7 @@ nav {
 .burger div {
     width: 25px;
     height: 3px;
-    background-color: #F1DCE2;
+    background-color: #F0CBCA;
     margin: 5px;
     transition: all 0.3s ease;
 }
@@ -104,6 +104,8 @@ nav {
     transform: rotate(45deg) translate(-5px, -6px);
 }
 .welcome{
+  font-size: 25px;
+  color: #777777;
   top:2vh;
   position: relative;
   width:75%;

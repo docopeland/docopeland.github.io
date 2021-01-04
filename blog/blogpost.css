@@ -5,6 +5,9 @@
     background-repeat:no-repeat;
     background-size:cover;
     bottom:0;
+    left:0;
+    right:0;
+    height:100%;
     font-family:"Poppins", sans-serif;
 }
 .title{
@@ -13,6 +16,7 @@
     text-align:center;
     width:100%;
     font-size:30px;
+    color:#777777;
 }
 .date{
     top:10vh;

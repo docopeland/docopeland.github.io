@@ -1,3 +1,39 @@
+.content{
+    top:12vh;
+    position:absolute;
+    background-image:url("../../../images/rosegold.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    bottom:0;
+    font-family:"Poppins", sans-serif;
+}
+.title{
+    top:3vh;
+    position:absolute;
+    text-align:center;
+    width:100%;
+    font-size:30px;
+}
+.date{
+    top:10vh;
+    position: relative;
+    text-align:right;
+    width:75%;
+    left:12.5%;
+}
+.textie{
+    top: 10vh;
+    position:relative;
+    width:75%;
+    left:12.5%;
+    padding:10px;
+    background-color:#FBFBFB;
+    border-radius:10px;
+}
+ul{
+    padding-left:25px;
+}
+
 /* below is the style for the header*/
 /** code based on youtube video
 https://www.youtube.com/watch?v=gXkqy0b4M5g*/

@@ -9,6 +9,7 @@
     right:0;
     height:100%;
     font-family:"Poppins", sans-serif;
+    overflow:scroll;
 }
 .title{
     top:3vh;

@@ -25,6 +25,7 @@
   position:absolute; 
   top:0; 
   bottom:0;
+  overflow:scroll;
 }
 .subscribe {
   position:relative;
@@ -62,6 +63,11 @@
     position:relative;
     width:90%;
     left:5%;
+  }
+  .subscribe{
+    width:90%;
+    left:5%;
+    top:30vh;
   }
 }
 

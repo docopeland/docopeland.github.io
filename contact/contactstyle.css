@@ -50,6 +50,11 @@
   position:relative;
   top:2vh;
 }
+#comments{
+  display:inline-block;
+  width:400px;
+  height:200px;
+}
 
 
 /* below is the style for the header*/

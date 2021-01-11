@@ -29,11 +29,14 @@
     <div class ="content">
       <div class="form">
         <form action="https://getsimpleform.com/messages?form_api_token=7d4a64cb3ea9c04c47010ccd7c68c88e" method="post">
-          <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-          <input type='hidden' name='redirect_to' value="copelandcodes.com/contact/redirect/index.html" />
           <!-- all your input fields here.... -->
-          <input type='text' name='test' />
-          <input type='submit' value='Test form' />
+          <label for="names">Name:</label>
+          <input type="text" id="names" name="names" value="Enter name here"><br><br>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" value="Enter email address"><br><br>
+          <label for="subscribe">Would you like to subscribe</label>
+          <input type="checkbox" id="subscribe" name ="subscribe" value="subscribe">
+          <input type="submit" value="Submit>
         </form>
       </div>
       <div class="footer">

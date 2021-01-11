@@ -42,9 +42,11 @@
   padding-bottom:2vh;
   padding:5%;
   border-radius:25px;
+  text-align: center;
+  width:75%;
+  left:12.5%;
 }
 .form {
-  text-align: center;
   position:relative;
   top:2vh;
 }

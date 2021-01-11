@@ -26,6 +26,16 @@
   top:0; 
   bottom:0;
 }
+.subscribe {
+  position:relative;
+  top:40vh;
+  text-align:center;
+  background-color:#FBFBFB;
+  width:45%;
+  border-radius:1120%;
+  padding:10px;
+  left:27.5%;
+}
 .footer{
   position:absolute;
   bottom:0;

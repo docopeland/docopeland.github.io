@@ -83,16 +83,25 @@
   color:#F0CBCA;
 }
 @media screen and (max-width: 768px) {
+   .content{
+    height:100%;
+  }
   .post{
     flex-direction:column;
     width:90%;
-    transform:translate(5%,11%);
+    transform:translate(5%,90%);
   }
   .title{
     width:auto;
   }
   .text{
     margin-bottom:45px;
+  }
+  .footer{
+    bottom:-30%;
+    position:relative;
+    height: auto;
+    
   }
 }
 

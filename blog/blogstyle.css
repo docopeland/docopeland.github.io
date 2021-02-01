@@ -87,6 +87,10 @@
   font-size:40px;
   padding:10px;
 }
+.older{
+  text-align:center;
+  padding:10px;
+}
 @media screen and (max-width: 768px) {
    .content{
     height:100%;

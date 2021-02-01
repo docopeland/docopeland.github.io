@@ -82,6 +82,11 @@
   text-decoration:none;
   color:#F0CBCA;
 }
+.toptitle{
+  text-align:center;
+  font-size:40px;
+  padding:10px;
+}
 @media screen and (max-width: 768px) {
    .content{
     height:100%;

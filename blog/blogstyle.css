@@ -28,6 +28,7 @@
   width:75%;
   overflow:hidden;
   transform:translate(12.5%,0%);
+  height:100px;
 }
 .title{
   background-color:#F0CBCA;

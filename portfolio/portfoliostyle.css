@@ -36,7 +36,27 @@
 .words{
   width:75%;
   font-family:"Poppins", sans-serif;
-
+}
+.btn a{
+  text-decoration:none;
+  color:#777777;
+  font-weight:bold;
+  font-family: Mulish;
+  letter-spacing: 1px;
+}
+.btn{
+  padding:5px;
+  border-radius:20px;
+  background-color:#F0CBCA;
+  position:absolute;
+  right: 10px; 
+  bottom: 10px;
+  cursor:pointer;
+}
+.btn:hover{
+  background-color:#FBFBFB;
+  color: #F0CBCA;
+  transform:scale(1.05);
 }
 .top {
   font-size: 40px;

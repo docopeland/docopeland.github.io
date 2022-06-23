@@ -11,6 +11,12 @@
     font-family:"Poppins", sans-serif;
     overflow:scroll;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .title{
     top:15vh;
     position:absolute;
